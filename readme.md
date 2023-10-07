@@ -16,12 +16,10 @@ es una aplicación simple y poderosa que te permite explorar perfiles de usuario
 
 Para utilizar la aplicación, sigue estos sencillos pasos:
 
-1. Accede al enlace de la aplicación: Enlace de GitHub Profile Saver.
+1. Si deseas utilizar la aplicación sin clonar el repositorio, puedes hacerlo directamente en el enlace proporcionado.
 
-2. Si deseas utilizar la aplicación sin clonar el repositorio, puedes hacerlo directamente en el enlace proporcionado.
+2. Si prefieres clonar el repositorio y ejecutar la aplicación en tu propio entorno, asegúrate de obtener un token de GitHub siguiendo las instrucciones en el archivo example.env.
 
-3. Si prefieres clonar el repositorio y ejecutar la aplicación en tu propio entorno, asegúrate de obtener un token de GitHub siguiendo las instrucciones en el archivo example.env.
+3. El backend de nuestra aplicación está diseñado para simplificar al máximo la configuración. Hemos integrado variables de entorno que hacen que todo el proceso sea más eficiente. Con esta configuración, la única tarea que deben realizar es levantar un contenedor Docker utilizando el archivo docker-compose.yml. De esta manera, obtendrán rápidamente una base de datos completamente funcional y lista para su uso.
 
-4. El backend de nuestra aplicación está diseñado para simplificar al máximo la configuración. Hemos integrado variables de entorno que hacen que todo el proceso sea más eficiente. Con esta configuración, la única tarea que deben realizar es levantar un contenedor Docker utilizando el archivo docker-compose.yml. De esta manera, obtendrán rápidamente una base de datos completamente funcional y lista para su uso.
-
-5. Explora perfiles de usuarios en GitHub y guarda tus favoritos utilizando la función de guardado proporcionada.
+4. Explora perfiles de usuarios en GitHub y guarda tus favoritos utilizando la función de guardado proporcionada.

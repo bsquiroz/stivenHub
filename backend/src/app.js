@@ -21,5 +21,7 @@ const PORT = process.env.PORT || 3000;
 app.use("/api/v1/profiles", routerProfile);
 
 app.listen(PORT, () => {
-	console.log(`server on http://localhost:${PORT}`);
+	console.log(
+		`server on https://stivenhub-server.onrender.com/api/v1/profiles`
+	);
 });
