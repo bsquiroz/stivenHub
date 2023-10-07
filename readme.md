@@ -2,7 +2,7 @@
 
 ![imagen_app](./imgApp.png)
 
-es una aplicación simple y poderosa que te permite explorar perfiles de usuarios en GitHub y, además, guardar tus perfiles favoritos en una base de datos personalizada. Esta aplicación se encuentra disponible en el siguiente enlace: Enlace
+es una aplicación simple y poderosa que te permite explorar perfiles de usuarios en GitHub y, además, guardar tus perfiles favoritos en una base de datos personalizada. Esta aplicación se encuentra disponible en el siguiente enlace: [Enlace](https://stivenhub.netlify.app)
 
 ## Funcionalidades clave:
 
@@ -16,7 +16,7 @@ es una aplicación simple y poderosa que te permite explorar perfiles de usuario
 
 Para utilizar la aplicación, sigue estos sencillos pasos:
 
-1. Si deseas utilizar la aplicación sin clonar el repositorio, puedes hacerlo directamente en el enlace proporcionado.
+1. Si deseas utilizar la aplicación sin clonar el repositorio, puedes hacerlo directamente en el [Enlace](https://stivenhub.netlify.app) proporcionado.
 
 2. Si prefieres clonar el repositorio y ejecutar la aplicación en tu propio entorno, asegúrate de obtener un token de GitHub siguiendo las instrucciones en el archivo example.env.
 
