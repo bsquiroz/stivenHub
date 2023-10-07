@@ -1,4 +1,4 @@
-const BASE_URL = "https://stivenhub-server.onrender.com";
+const BASE_URL = "https://stivenhub-server.onrender.com/api/v1/profiles";
 
 interface ProfileInterface {
 	idProfile: number;
